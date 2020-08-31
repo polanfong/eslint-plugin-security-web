@@ -1,12 +1,12 @@
-# eslint-plugin-security
+# eslint-plugin-security-web
 
-ESLint rules for Node Security
+ESLint rules for Node Security, focusing on web-based applications.
 
 This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
 
 ### Installation
 
-`npm install --save-dev eslint-plugin-security`
+`npm install --save-dev eslint-plugin-security-web`
 
 ### Usage
 
